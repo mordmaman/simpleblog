@@ -8,8 +8,8 @@ body{
     padding-top:20px;
 }
 
-.blogDate, .blogTitle {
-    margin-left: 30px;
+.blogDate, .blogTitle, .blogPost {
+    margin: 0 30px;
     padding-bottom: 20px;
 }
 
@@ -21,5 +21,14 @@ body{
 .title {
     font-size: 20px;
     color: #82C712;
+}
+
+.blogHeader{
+    border-left: 3px solid black;
+    padding-left: 7px;
+}
+
+.blogText{
+    font-size: 14px;
 }
 
