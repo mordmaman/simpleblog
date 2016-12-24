@@ -1,0 +1,15 @@
+body{
+    width: 600px;
+    margin: 0 auto;
+    border: 10px solid #5D3168;
+}
+
+.blogDate, .blogTitle {
+    margin-left: 30px;
+}
+
+.date {
+    font-size: 18px;
+    color: deepskyblue;
+}
+
