@@ -4,12 +4,22 @@ body{
     border: 10px solid #5D3168;
 }
 
+.blogDate{
+    padding-top:20px;
+}
+
 .blogDate, .blogTitle {
     margin-left: 30px;
+    padding-bottom: 20px;
 }
 
 .date {
     font-size: 18px;
-    color: deepskyblue;
+    color: #49B0BF;
+}
+
+.title {
+    font-size: 20px;
+    color: #82C712;
 }
 
