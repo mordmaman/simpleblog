@@ -30,9 +30,13 @@ body{
 .blogHeader{
     border-left: 3px solid black;
     padding-left: 7px;
+    margin-bottom: 15px;
 }
 
 .blogText{
     font-size: 14px;
 }
 
+hr{
+    margin: 0 30px;
+}
