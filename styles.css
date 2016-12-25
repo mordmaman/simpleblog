@@ -21,6 +21,8 @@ body{
 .date {
     font-size: 18px;
     color: #49B0BF;
+    
+    letter-spacing: 2px;
 }
 
 .title {
