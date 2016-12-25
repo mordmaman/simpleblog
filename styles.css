@@ -13,6 +13,10 @@ body{
     padding-bottom: 20px;
 }
 
+.blogPara{
+    margin-bottom: 10px;
+}
+
 .date {
     font-size: 18px;
     color: #49B0BF;
